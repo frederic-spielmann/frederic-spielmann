@@ -4,8 +4,6 @@
 
 - 📖 I’m currently learning [FastAPI](https://fastapi.tiangolo.com/)
 
-- ⚡Fun fact: Ich spreche kein deutsch, because I'm not German! 😉
-
 
 ## My Skill Set
 <table><tr><td valign="top" width="33%">
