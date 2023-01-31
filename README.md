@@ -6,8 +6,6 @@
 
 - ⚡Fun fact: Ich spreche kein deutsch, because I'm not German! 😉
 
-<br/>
-
 
 ## My Skill Set
 <table><tr><td valign="top" width="33%">
