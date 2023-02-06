@@ -1,5 +1,3 @@
-### Hey, I'm Fred, I’m a full-time System Engineer who occasionally does some Web Dev
-
 - 💼 I’m working on a personal Website related to Video-Games
 
 - 📖 I’m currently learning [FastAPI](https://fastapi.tiangolo.com/)
