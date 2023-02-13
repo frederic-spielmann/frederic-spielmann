@@ -1,8 +1,3 @@
-- 💼 I’m working on a personal Website related to Video-Games
-
-- 📖 I’m currently learning [FastAPI](https://fastapi.tiangolo.com/)
-
-
 ## My Skill Set
 <table><tr><td valign="top" width="33%">
 
