@@ -1,6 +1,8 @@
 ## My Skill Set
 <table><tr><td valign="top" width="33%">
 
+  Currently working on a Django Rest API / VueJS / Firebase Auth with CRUD example
+  The project will be Open Souce later
 
 ### Frontend
 <div align="center">
