@@ -1,9 +1,9 @@
+## What am I working on ?
+  I'm currently working on a Django Rest API / Vue3 / Firebase Auth with CRUD example.<br /> This project will be available in a public repository later.
+
 ## My Skill Set
 <table><tr><td valign="top" width="33%">
-
-  Currently working on a Django Rest API / VueJS / Firebase Auth with CRUD example
-  The project will be Open Souce later
-
+  
 ### Frontend
 <div align="center">
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
