@@ -36,7 +36,7 @@
 <div align="center">
 <a href="https://ads.google.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/frederic-spielmann/frederic-spielmann/main/logos/adwords.svg" alt="Google Adwords" height="50" /></a>
 <a href="https://analytics.google.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/frederic-spielmann/frederic-spielmann/main/logos/google-analytics.svg" alt="Google Analytics" height="50" /></a>
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/frederic-spielmann/frederic-spielmann/main/logos/aws.svg" alt="AWS" height="50" /></a>
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/frederic-spielmann/frederic-spielmann/27dbda29bcd7b432ac6035c07a33920836ff17f9/logos/aws.svg" alt="AWS" height="50" /></a>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/frederic-spielmann/frederic-spielmann/main/logos/linux.svg" alt="Linux" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/frederic-spielmann/frederic-spielmann/main/logos/git.svg" alt="Git" height="50" /></a>
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/frederic-spielmann/frederic-spielmann/main/logos/gitlab.svg" alt="Gitlab" height="50" /></a>
