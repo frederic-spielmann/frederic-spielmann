@@ -8,7 +8,6 @@
 <a href="https://www.javascript.com/"><img style="margin: 10px" src="https://raw.githubusercontent.com/frederic-spielmann/frederic-spielmann/main/logos/javascript.svg" alt="JavaScript" height="50" /></a>
 <a href="https://quasar.dev/"><img style="margin: 10px" src="https://raw.githubusercontent.com/frederic-spielmann/frederic-spielmann/main/logos/quasar.svg" alt="Quasar" height="50" /></a>
 <a href="https://www.w3schools.com/css/"><img style="margin: 10px" src="https://raw.githubusercontent.com/frederic-spielmann/frederic-spielmann/main/logos/css-3.svg" alt="CSS3" height="50" /></a>
-<a href="https://www.tailwindcss.com/"><img style="margin: 10px" src="https://raw.githubusercontent.com/frederic-spielmann/frederic-spielmann/main/logos/tailwind.svg" alt="Tailwind CSS" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
