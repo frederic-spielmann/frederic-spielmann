@@ -1,7 +1,4 @@
-## What am I working on ?
-  I'm currently working on a Django Rest API / Vue3 / Firebase Auth with CRUD example.<br /> This project will be available in a public repository later.
-
-## My Skill Set
+## Skill Set
 <table><tr><td valign="top" width="33%">
   
 ### Frontend
