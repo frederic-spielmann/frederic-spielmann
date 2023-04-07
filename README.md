@@ -20,7 +20,6 @@
 <a href="https://www.djangoproject.com/"><img style="margin: 10px" src="https://raw.githubusercontent.com/frederic-spielmann/frederic-spielmann/main/logos/django.svg" alt="Django" height="50" /></a>
 <a href="https://www.python.org/"><img style="margin: 10px" src="https://raw.githubusercontent.com/frederic-spielmann/frederic-spielmann/main/logos/python.svg" alt="Python" height="50" /></a>
 <a href="https://www.php.net/"><img style="margin: 10px" src="https://raw.githubusercontent.com/frederic-spielmann/frederic-spielmann/main/logos/php.svg" alt="PHP" height="50" /></a>
-<a href="https://www.mongodb.com/"><img style="margin: 10px" src="https://raw.githubusercontent.com/frederic-spielmann/frederic-spielmann/main/logos/mongodb.svg" alt="MongoDB" height="50" /></a>
 <a href="https://www.mysql.com/"><img style="margin: 10px" src="https://raw.githubusercontent.com/frederic-spielmann/frederic-spielmann/main/logos/mysql.svg" alt="MySQL" height="50" /></a>
 </div>
 
