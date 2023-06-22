@@ -3,7 +3,7 @@
   
 ### Frontend
 <div align="center">
-<a href="https://en.wikipedia.org/wiki/HTML5"><img style="margin: 10px" src="https://raw.githubusercontent.com/frederic-spielmann/frederic-spielmann/a7bba4c9ba5da0e48d69e4b65fc09dacc23f2d09/logos/html-5-logo.svg" alt="HTML5" height="50" /></a>
+<a href="https://en.wikipedia.org/wiki/HTML5"><img style="margin: 10px" src="https://raw.githubusercontent.com/frederic-spielmann/frederic-spielmann/main/logos/html-5-logo.svg" alt="HTML5" height="50" /></a>
 <a href="https://vuejs.org/"><img style="margin: 10px" src="https://raw.githubusercontent.com/frederic-spielmann/frederic-spielmann/main/logos/vue-9.svg" alt="Vue.js" height="50" /></a>
 <a href="https://www.javascript.com/"><img style="margin: 10px" src="https://raw.githubusercontent.com/frederic-spielmann/frederic-spielmann/main/logos/javascript.svg" alt="JavaScript" height="50" /></a>
 <a href="https://quasar.dev/"><img style="margin: 10px" src="https://raw.githubusercontent.com/frederic-spielmann/frederic-spielmann/main/logos/quasar.svg" alt="Quasar" height="50" /></a>
