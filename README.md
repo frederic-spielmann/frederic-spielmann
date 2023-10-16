@@ -6,7 +6,7 @@
 <a href="https://en.wikipedia.org/wiki/HTML5"><img style="margin: 10px" src="https://raw.githubusercontent.com/frederic-spielmann/frederic-spielmann/main/logos/html-5-logo.svg" alt="HTML5" height="50" /></a>
 <a href="https://vuejs.org/"><img style="margin: 10px" src="https://raw.githubusercontent.com/frederic-spielmann/frederic-spielmann/main/logos/vue-9.svg" alt="Vue.js" height="50" /></a>
 <a href="https://www.javascript.com/"><img style="margin: 10px" src="https://raw.githubusercontent.com/frederic-spielmann/frederic-spielmann/main/logos/javascript.svg" alt="JavaScript" height="50" /></a>
-<a href="https://quasar.dev/"><img style="margin: 10px" src="https://raw.githubusercontent.com/frederic-spielmann/frederic-spielmann/main/logos/quasar.svg" alt="Quasar" height="50" /></a>
+<!--<a href="https://quasar.dev/"><img style="margin: 10px" src="https://raw.githubusercontent.com/frederic-spielmann/frederic-spielmann/main/logos/quasar.svg" alt="Quasar" height="50" /></a>-->
 <a href="https://www.w3schools.com/css/"><img style="margin: 10px" src="https://raw.githubusercontent.com/frederic-spielmann/frederic-spielmann/main/logos/css-3.svg" alt="CSS3" height="50" /></a>
 </div>
 
@@ -17,7 +17,7 @@
 ### Backend
 <div align="center">
 <a href="https://laravel.com/"><img style="margin: 10px" src="https://raw.githubusercontent.com/frederic-spielmann/frederic-spielmann/main/logos/laravel.svg" alt="Laravel" height="50" /></a>
-<a href="https://www.djangoproject.com/"><img style="margin: 10px" src="https://raw.githubusercontent.com/frederic-spielmann/frederic-spielmann/main/logos/django.svg" alt="Django" height="50" /></a>
+<!--<a href="https://www.djangoproject.com/"><img style="margin: 10px" src="https://raw.githubusercontent.com/frederic-spielmann/frederic-spielmann/main/logos/django.svg" alt="Django" height="50" /></a>-->
 <a href="https://www.python.org/"><img style="margin: 10px" src="https://raw.githubusercontent.com/frederic-spielmann/frederic-spielmann/main/logos/python.svg" alt="Python" height="50" /></a>
 <a href="https://www.php.net/"><img style="margin: 10px" src="https://raw.githubusercontent.com/frederic-spielmann/frederic-spielmann/main/logos/php.svg" alt="PHP" height="50" /></a>
 <a href="https://www.mysql.com/"><img style="margin: 10px" src="https://raw.githubusercontent.com/frederic-spielmann/frederic-spielmann/main/logos/mysql.svg" alt="MySQL" height="50" /></a>
